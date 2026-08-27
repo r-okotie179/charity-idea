@@ -15,4 +15,4 @@ Youth clubs have been causally responsible for improved educational attaintment 
 
 `To be more comprehensive with sources, trying to find a better range of sources as well`
 
-Given funding is still low, but non-zero, trying to understand the demands of youth and placing youth clubs in areas that can maximise the positive effects to councils (focusing initially on areas with higher Index of Deprivation Affecting Ch
+Given funding is still low, but non-zero, trying to understand the demands of youth and placing youth clubs in areas that can maximise the positive effects to councils (focusing initially on areas with higher Income Deprivation Affecting Children Index (IDACI) scores). Formalising what demands would be best to focus on will help with the construction of whatever output is most appropriate.  
