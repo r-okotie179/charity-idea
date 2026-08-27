@@ -11,4 +11,8 @@ This file will contain the research and context for this issue, and the case for
 ## Defunding
 In the UK, there has has been rising austerity and reduction in funding for previously present public services. One of those most strongly affected were youth clubs which typically provide a supervised space for youths to explore music, sports and recreation outside of school times.
 
-Youth clubs have been causally responsible for improved educational attaintment in regions and symmetrically, the absence of a youth club tends to worsen attainment in the same area (as shown by cuts that occurs in London boroughs during the 2010s). In areas of higher deprivation, they seem to also reduce the instances of youth crimes with a suggestion in research being that they inhibit the development of 'criminal capital' (similar to Bourdiau's con 
+Youth clubs have been causally responsible for improved educational attaintment in regions and symmetrically, the absence of a youth club tends to worsen attainment in the same area (as shown by cuts that occurs in London boroughs during the 2010s). In areas of higher deprivation, they seem to also reduce the instances of youth crimes with a suggestion in research being that they inhibit the development of 'criminal capital' (similar to Bourdieu's concept). Further, there seems to be a growing need for youth clubs that are accessible to everyone following the survey by the DCMS and the growing reported rates of youth lonliness (Financial Times). 
+
+`To be more comprehensive with sources, trying to find a better range of sources as well`
+
+Given funding is still low, but non-zero, trying to understand the demands of youth and placing youth clubs in areas that can maximise the positive effects to councils (focusing initially on areas with higher Index of Deprivation Affecting Ch
