@@ -21,6 +21,8 @@ This leaves only a minority able to attend the club.
 There could be redirections for "MFL" or "coding" clubs depending on the student's further interests. 
 ```
 
+This would imply a knowledge of how the different topics are connected with each other, which is another interesting topic. 
+
 ### Phase III: Interaction & Accurary
 The model know allows for the interactive addition of clubs to try to respond to underserved communities, in a clear website. The base layer of this would be some OpenStreetMap wrapper and based on actual council data; using transportation connections and deprivation data to infer the edge weights. 
 
