@@ -15,8 +15,8 @@ $$\nabla f(\vec{x}) = 2\sum^{N}_{1}(x-S_i)$$
 
 $$\nabla f(\vec{x}) = 0$$
 
-$$2(N\vec{x} - \sum^{N}_{1}S_i) = 0$$
+$$2\(N\vec{x} - \sum^{N}_{1}S_i\) = 0$$
 
-$$\vec{x} = \frac{1}{N} \sum{N}{1}S_i$$
+$$\vec{x} = \frac{1}{N} \sum^{N}_{1}S_i$$
 
 Which makes this problem pretty easy to code up; I was expecting to apply basic gradient descent or bayesian optimisation but since this problem is constrained and quadratic there is not a need for that. 
