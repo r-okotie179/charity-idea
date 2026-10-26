@@ -8,7 +8,9 @@ Therefore, we would want to minimise this sum $\sum^{N}_{i}(x-S_i)^2$. Here, $S 
 As with any function, differentiating and setting the first derivative to zero gives a stationary point. I cannot assume that the vector $\vec{x}$ will be a minimum in this form but it will be the starting point. 
 
 To differentiate a vector function, the below steps will take place: 
+
 $$f(\vec{x}) = \sum^{N}_{i}(x-S_i)^2, \vec{x} \in \mathbb{R}^n$$
+
 $$\nabla f(\vec{x}) = 2\sum^{N}_{i}(x-S_i)$$
 
 $$\nabla f(\vec{x}) = 0$$
