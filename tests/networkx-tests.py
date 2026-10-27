@@ -1,5 +1,9 @@
 import networkx as nx
 
+'''
+Wanted to more efficiently run the update of the graph, and thus to use this approach
+'''
+
 G = nx.path_graph(3)
 G.nodes[0].update({'color': 'red', 'score': 10})
 G.nodes[1].update({'color': 'blue', 'score': 20})
