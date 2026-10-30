@@ -1,5 +1,3 @@
-Deadline: Sept 26
-
 ### Phase I: Demand-side
 I would like to create a student-student graph that is able to cluster similar student interests. Then, using the definition of these clusters, I can compare how well each of the clusters are served by the existing clubs (in phase 2)
 
@@ -7,6 +5,8 @@ I would like to create a student-student graph that is able to cluster similar s
 - apply community detection algorithms (leiden algo as a start) to get a better understanding
 - (ext.) use sliders to adjust the granularity of clusters formed to come to a vibe-based conclusion on the weights
 - (ext.) look approximately how this is actually achieved and reach out to some people for this
+
+**Phase I is mostly complete, except for the extensions where they can be present in later tests.**
 
 ### Phase II: Comparison
 Now compare these formed clusters with the existing distribution of clubs. Then see which clusters are underserved and understand why this is the case. E.g.
